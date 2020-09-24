@@ -1,0 +1,16 @@
+Package: SubtypeDrugData
+Type: Package
+Title: Data Sets for the SubtypeDrug Package
+Version: 0.1.0
+Author: Xudong Han,
+  Junwei Han,
+  Chonghui Liu
+Maintainer: Junwei Han <hanjunwei1981@163.com>
+Description: This package provides subpathway data, drug-subpathway association data and gene expression profile (GEO accession: GSE45827) to support the SubtypeDrug package. 
+biocViews: ExperimentData, CancerData
+Depends: R (>= 3.5.0)
+License: GPL (>= 2)
+NeedsCompilation: no
+RoxygenNote: 7.1.0
+Encoding: UTF-8
+Packaged: 2020-09-24 08:30:40 UTC; 12859
