@@ -6,3 +6,5 @@
 library(devtools)
 install_github("hanjunwei-lab/SubtypeDrugData")
 ```
+
+Please cite the following article when using `SubtypeDrugData`: https://doi.org/10.1093/bioinformatics/btab011.
